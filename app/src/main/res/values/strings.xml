@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">MdMuntasirLab1</string>
+    <string name="your_full_name">Md Muntasir Khan</string>
+    <string name="submit_button_text">Submit</string>
+</resources>
